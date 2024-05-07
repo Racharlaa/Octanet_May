@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width", initial-scale="1.0">
+    <title>Andhra Special Foods</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+        <nav>
+            <div class="logo">
+                 Recipe-X
+            </div>
+            <div class="menu">
+              <a href="#">About Us</a>
+              <a href="#">Our Specialties</a>
+              <a href="#">Contact</a>
+            </div> 
+            <div class="register">
+               <a href="#">Register</a>
+            </div>      
+        </nav>
+        <section class="h-txt">
+            <span>Enjoy</span>
+            <h1>Andhra Food recipes</h1> 
+
+            <br>
+            <a href="#">Explore Now</a>
+        </section>  
+</header>     
+        <footer class="footer">
+            <div class="container">
+              <p>&copy; 2024 Andhra Special Foods. All rights reserved.</p>
+            </div>
+        </footer>  
+</body>
+</html>
